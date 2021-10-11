@@ -125,7 +125,7 @@ p
 body
 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    fony size: 14px;
+    font size: 14px;
     line-height: 1.6;
 }
 
@@ -145,3 +145,9 @@ text-align: center;
 }
 
 
+h2
+{
+    font-size: 24ox;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orange;
+}
