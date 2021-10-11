@@ -22,7 +22,7 @@ body {
    padding: 0px 0px 0px 20px;
    z-index: 3;
    color: rgba(12, 223, 23, 0.753);
-   font-weight: bold;
+   font-weight: lighter;
 }
 
 .top-menu {
@@ -110,4 +110,36 @@ body {
     width: 800px;
     height: 800px;
     boarder: 1px solid #3f3c3c
+}
+
+
+
+p
+{
+    width: 100px;
+    line-height: :1.5;
+}
+
+
+
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    fony size: 14px;
+    line-height: 1.6;
+}
+
+
+h1
+{
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+
+::content
+{
+padding: 10px 20px;
+background-color: aqua;
+text-align: center;
 }
