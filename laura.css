@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background-color: rgb(6, 221, 228);
+    background-color:aqua
 }
 
 .top-bar {
@@ -21,7 +21,7 @@ body {
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
-   color: rgba(12, 223, 23, 0.753);
+   color: pink;
    font-weight: lighter;
 }
 
@@ -143,3 +143,5 @@ padding: 10px 20px;
 background-color: aqua;
 text-align: center;
 }
+
+
